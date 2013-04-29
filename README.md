@@ -1,9 +1,3 @@
-justbrowsing-email
-==================
-
-Email web-app for JustBrowsing
-
-
 justbrowsing-email Email web-app for JustBrowsing
 ---------------------------------------------------
 Shortcut to gmail compose
